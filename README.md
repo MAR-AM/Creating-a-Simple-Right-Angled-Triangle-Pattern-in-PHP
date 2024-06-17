@@ -1,0 +1,2 @@
+# Creating-a-Simple-Right-Angled-Triangle-Pattern-in-PHP
+In this example, we demonstrate how to use nested loops in PHP to create a right-angled triangle pattern made of asterisks (*). The outer loop controls the number of rows, while the inner loop determines the number of asterisks printed in each row. This pattern-building exercise is a common introduction to loops and nested loops in programming.
